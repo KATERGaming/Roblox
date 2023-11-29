@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KaterHub-Inc/KaterHub/main/main.lua"))()
+loadstring(game:HttpGet("https://katerhub-inc.github.io/KaterHub/main.lua"))()
